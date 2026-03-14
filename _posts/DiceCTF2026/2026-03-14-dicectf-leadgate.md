@@ -1,7 +1,7 @@
 ---
-title: DiceCTF 2026 - leadgate [ Misc ]
+title: DiceCTF 2026 - Leadgate [ Misc ]
 date: 2026-03-14 22:30:00 +0800
-categories: [DiceCTF2026, DiceCTF2026-Writeup]
+categories: [DiceCTF2026, Misc, Leadgate]
 tags: [dicectf, misc, ml, gpt2, safetensors, model-inversion]
 render_with_liquid: false
 description: Writeup for the DiceCTF 2026 misc/ML challenge "leadgate", solved by inverting the fine-tuning perturbation of a modified GPT-2 small checkpoint.
