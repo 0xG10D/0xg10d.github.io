@@ -24,6 +24,15 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install Node dependencies
+        run: npm install
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
