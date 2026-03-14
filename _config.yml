@@ -140,6 +140,10 @@ defaults:
       permalink: /:title/
 
 sass:
+  sass_dir: _sass
+  load_paths:
+    - _sass
+    - node_modules
   style: compressed
 
 compress_html:
