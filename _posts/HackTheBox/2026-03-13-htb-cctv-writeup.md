@@ -6,11 +6,8 @@ categories: [HackTheBox, HTB-Writeup]
 tags: [ctf, pentesting, sql-injection, privilege-escalation, linux]
 description: Full penetration testing walkthrough of the CCTV machine on Hack The Box from initial access to root.
 image:
-  path: /commons/devices-mockup.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  path: https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/9867e8b14b7602881160973ebb50b2c4.png
 ---
-
-
 
 This post documents the full attack chain used to compromise the **CCTV** machine on Hack The Box. The machine demonstrates how multiple small vulnerabilities can combine into a full system compromise.
 
@@ -22,7 +19,7 @@ The first step was identifying open ports using **Nmap**.
 
 ```bash
 nmap -sC -sV -oN nmap_scan 10.129.x.x
-````
+```
 
 Result:
 
@@ -250,8 +247,6 @@ This machine demonstrates several common security issues:
 
 When these weaknesses combine, they can easily lead to a full system compromise.
 
-```
-
 ---
 
 If you want, I can also help you **improve this for your GitHub Pages blog** by adding:
@@ -260,4 +255,4 @@ If you want, I can also help you **improve this for your GitHub Pages blog** by 
 - Mermaid attack chain diagram
 - nicer section formatting
 - SEO tags for cybersecurity posts.
-```
+

@@ -1,5 +1,5 @@
 ---
-title: DiceCTF – Good Vibes [ Forensics ]
+title: DiceCTF2026 – Good Vibes [ Forensics ]
 date: 2026-03-14 21:30:00 +0800
 categories: [DiceCTF2026, Forensics, Good Vibes]
 tags: [ctf, reverse, pcap, crypto, aes, networking]
