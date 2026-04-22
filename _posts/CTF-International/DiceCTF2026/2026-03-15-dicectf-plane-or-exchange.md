@@ -7,7 +7,7 @@ description: Writeup for the DiceCTF cryptography challenge "plane-or-exchange".
 render_with_liquid: false
 toc: true
 image:
-  path: https://dice26-quals.storage.googleapis.com/uploads/ee7c99b0f55d18bd845daa7335f47634fbb4fcb065014089ef9386a3c06c6396/dice.svg
+  path: https://ctftime.org/media/cache/8d/dd/8ddda663b7eafd93fcd0271cc10a1214.png
 ---
 
 This post explains how to solve the **DiceCTF cryptography challenge _plane-or-exchange_**.  
