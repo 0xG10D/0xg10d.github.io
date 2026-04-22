@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
-Hi, I'm **Irfan Shah** (**G10D**), a Diploma in Cybersecurity Technology student at the :contentReference[oaicite:0]{index=0}.
+Hi, I'm **Irfan Shah** (**G10D**), a Diploma in Cybersecurity Technology student at the German-Malaysian Institute.
 
 Hands-on enthusiast in penetration testing, CTF competitions, reverse engineering, digital forensics, and system hardening.
 
