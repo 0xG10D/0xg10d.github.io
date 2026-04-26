@@ -57,10 +57,13 @@ Hands-on enthusiast in penetration testing, CTF competitions, reverse engineerin
 
 | Event                                      | Organizer            | Date     | Placement   |
 | ------------------------------------------ | -------------------- | -------- | ----------- |
+| UMCS 2026 Preliminary                      | UM                   | APR 2026 | 16th        |
 | HACK@10 CTF                                | UNITEN               | Mar 2026 | 27th        |
 | RamadhanCTF                                | VULN BYDEFAULT       | Mar 2026 | 93rd        |
 | International Game of Hacker (Final)       | UNIKL                | Feb 2026 | 22nd        |
 | International Game of Hacker (Preliminary) | UNIKL                | Feb 2026 | 22nd        |
+| Taming iCTFF8 Final                        | UiTM                 | Jan 2026 | 7th         |
+| Taming iCTFF8 Preliminary                  | UiTM                 | Jan 2026 | 23rd        |
 | RE:UNION CTF                               | REHACK               | Dec 2025 | 22nd        |
 | Tinsel Trouble University CTF              | Hack The Box         | Dec 2025 | 129th       |
 | BingoCTF                                   | FSEC                 | Nov 2025 | Top 5       |
@@ -75,8 +78,6 @@ Hands-on enthusiast in penetration testing, CTF competitions, reverse engineerin
 | Cyber Warfare Odyssey                      | WARZONE              | May 2025 | Participant |
 | Break The Enigma                           | CYSEC                | Apr 2025 | Top 10      |
 | Rising Phoenix 3.0                         | WARZONE              | Mar 2025 | Participant |
-| Taming iCTFF8 Final                        | UiTM                 | Jan 2025 | 7th         |
-| Taming iCTFF8 Preliminary                  | UiTM                 | Jan 2025 | 23rd        |
 
 ---
 
