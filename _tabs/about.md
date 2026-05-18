@@ -57,6 +57,7 @@ Hands-on enthusiast in penetration testing, CTF competitions, reverse engineerin
 
 | Event                                      | Organizer            | Date     | Placement   |
 | ------------------------------------------ | -------------------- | -------- | ----------- |
+| UMCS 2026 Final ( Attack With Defend )     | UM                   | MAY 2026 | 8th         |
 | UMCS 2026 Preliminary                      | UM                   | APR 2026 | 16th        |
 | HACK@10 CTF                                | UNITEN               | Mar 2026 | 27th        |
 | RamadhanCTF                                | VULN BYDEFAULT       | Mar 2026 | 93rd        |
@@ -81,16 +82,6 @@ Hands-on enthusiast in penetration testing, CTF competitions, reverse engineerin
 
 ---
 
-## Workshops & Training
-
-- Cyber Edge: CyberSecurity 101 – OWASP Malaysia Federation  
-- Introduction to Cybersecurity CTF – Google Developers Group UPM  
-- Internal CTF Workshop – FSEC  
-- Digital Technova TRYHACK MRSM 2025  
-- Cyber Warfare Operation 2025 (CWO)  
-- NTW Wireless Security Training  
-
----
 
 ## Currently Pursuing
 
